@@ -1,8 +1,11 @@
 # Personal Information
 
 *Name*: Alexander Sharikhin
+
 *Martial status*: married
+
 *Date of birth*: 1989-03-01
+
 *E-mail*: anihirash@gmail.com
 
 
