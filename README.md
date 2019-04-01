@@ -13,7 +13,7 @@
 
 Looking for work as Backend Engineer(or T-shaped software engineer, I have experience with React on Scala.JS and JavaScript). 
 
-I prefeer functional programming and programming languages with functional paradigm(Scala, Clojure). 
+I prefer functional programming and programming languages with functional paradigm(Scala, Clojure). 
 
 # Education
 
